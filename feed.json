@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "myblog",
+    "description": "",
+    "home_page_url": "https://allisonaugspurger.github.io/gh-pages",
+    "feed_url": "https://allisonaugspurger.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Allison"
+    },
+    "items": [
+        {
+            "id": "https://allisonaugspurger.github.io/gh-pages/test.html",
+            "url": "https://allisonaugspurger.github.io/gh-pages/test.html",
+            "title": "Test",
+            "content_html": "Test",
+            "author": {
+                "name": "Allison"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-10-28T16:18:06-05:00",
+            "date_modified": "2017-10-28T16:33:42-05:00"
+        }
+    ]
+}

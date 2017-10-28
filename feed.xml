@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>myblog</title>
+    <link href="https://allisonaugspurger.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://allisonaugspurger.github.io/gh-pages" />
+    <updated>2017-10-28T16:34:36-05:00</updated>
+    <author>
+        <name>Allison</name>
+    </author>
+    <id>https://allisonaugspurger.github.io/gh-pages</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Allison</name>
+        </author>
+        <link href="https://allisonaugspurger.github.io/gh-pages/test.html"/>
+        <id>https://allisonaugspurger.github.io/gh-pages/test.html</id>
+
+        <updated>2017-10-28T16:33:42-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                Test
+            ]]>
+        </content>
+    </entry>
+</feed>
